@@ -1,0 +1,22 @@
+{
+  "name": "notify-pack",
+  "version": "1.0.2",
+  "description": "Notification Pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akbar1008/notify-pack.git"
+  },
+  "keywords": [
+    "notify"
+  ],
+  "author": "Akbar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akbar1008/notify-pack/issues"
+  },
+  "homepage": "https://github.com/Akbar1008/notify-pack#readme"
+}
