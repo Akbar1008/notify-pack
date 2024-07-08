@@ -1,6 +1,6 @@
 {
   "name": "notify-pack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Notification Pack",
   "main": "index.js",
   "scripts": {
