@@ -1,7 +1,9 @@
 // Create a style element and add it to the document head
 const style = document.createElement('style');
 style.textContent = `
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
   #alertBox {
+    font-family: 'Inter', sans-serif;
     user-select: none;
     position: fixed;
     top: -100px;
