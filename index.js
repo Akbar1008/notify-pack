@@ -2,7 +2,13 @@
 const style = document.createElement('style');
 style.textContent = `
   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
   #alertBox {
+    transition: 300ms;
     font-family: 'Inter', sans-serif;
     user-select: none;
     position: fixed;
